@@ -4,6 +4,6 @@ public class Hello {
 
 
 
-	
+	int lala = 0
 	
 }
